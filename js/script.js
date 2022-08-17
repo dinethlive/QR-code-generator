@@ -35,6 +35,10 @@ const generateQRCode = (url, size) => {
 // Clear QR code and save button
 const clearUI = () => {
   qr.innerHTML = "";
+  const saveBtn = document.getElementById("save-link");
+  if (saveBtn) {
+    saveBtn.remove();
+  }
 };
 const showSpinner = () => {
   document.getElementById("spinner").style.display = "block";
