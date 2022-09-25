@@ -1,6 +1,6 @@
 # QR-code-generator
 <h2>
-  <a href="http://qr-code-generator-dinethlive.is-best.net/">=> Live Demo</a>
+  <a href="http://qr-code-generator.dinethlive.great-site.net/">=> DEMO ( Click Here )</a>
 </h2>
 <img src="img/ss.png">
 
